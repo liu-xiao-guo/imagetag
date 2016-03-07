@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=imagetag
+Exec=./qtc_device_debughelper.py app "qmlscene $@ Main.qml"
+Icon=imagetag.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

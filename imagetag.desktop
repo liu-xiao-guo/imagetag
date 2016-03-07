@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=imagetag
+Exec=qmlscene $@ Main.qml
+Icon=imagetag.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

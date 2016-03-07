@@ -1,0 +1,17 @@
+{
+    "name": "imagetag.liu-xiao-guo",
+    "description": "description of imagetag",
+    "architecture": "all",
+    "title": "imagetag",
+    "hooks": {
+        "imagetag": {
+            "apparmor": "imagetag.apparmor",
+            "desktop":  "imagetag.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
